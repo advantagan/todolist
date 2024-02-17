@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+
+.task-app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 500px;
+}
+ul{list-style: none;}
