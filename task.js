@@ -47,3 +47,4 @@ console.log(data)
 }
 getWordDefinition("Animal")
 
+console.log("Hello")
